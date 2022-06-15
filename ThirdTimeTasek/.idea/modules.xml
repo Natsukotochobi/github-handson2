@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ThirdTimeTasek.iml" filepath="$PROJECT_DIR$/ThirdTimeTasek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thirdtimetask.iml" filepath="$PROJECT_DIR$/thirdtimetask.iml" />
     </modules>
   </component>
 </project>
